@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>33898045138-2prp0gj2hsi4bo6dril8e65db5n6maf9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.33898045138-2prp0gj2hsi4bo6dril8e65db5n6maf9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDO2ZuzomF1rGcrZ-ZLGNSUXhOwtgPkfUY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>33898045138</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bargoLoft.hadaMath</string>
+	<key>PROJECT_ID</key>
+	<string>hadamath</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hadamath.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:33898045138:ios:3e98140346e37e0332970b</string>
+	<key>DATABASE_URL</key>
+	<string>https://hadamath-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
